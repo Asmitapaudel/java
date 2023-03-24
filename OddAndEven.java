@@ -1,3 +1,7 @@
+
+/*
+Write a Java program to get 10 array elements, from user and put even and odd elements in separate array. Explain • public static void main (String [] args) {} 
+*/
 import java.util.Scanner;
 public class OddAndEven{
   public static void main(String []args){
